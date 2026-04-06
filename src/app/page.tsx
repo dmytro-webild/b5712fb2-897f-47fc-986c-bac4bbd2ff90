@@ -60,7 +60,7 @@ export default function LandingPage() {
           handle: "@rafex-client",
           testimonial: "Fantastyczna robota, profesjonalna obsługa i zaangażowanie.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/gold-foil-business-card-template_23-2148886788.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/gold-foil-business-card-template_23-2148886788.jpg?_wi=1",
           imageAlt: "outdoor advertising banner modern design",
         },
         {
@@ -76,7 +76,7 @@ export default function LandingPage() {
           handle: "@rafex-client",
           testimonial: "Wszystko super sprawnie, na czas.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg?_wi=1",
           imageAlt: "large format advertising banner mockup",
         },
         {
@@ -84,7 +84,7 @@ export default function LandingPage() {
           handle: "@rafex-client",
           testimonial: "Profesjonalne podejście do sprawy.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg?_wi=1",
           imageAlt: "professional business portrait happy",
         },
         {
@@ -92,7 +92,7 @@ export default function LandingPage() {
           handle: "@rafex-client",
           testimonial: "Najlepsza firma w regionie.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/gold-foil-business-card-template_23-2148886788.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/gold-foil-business-card-template_23-2148886788.jpg?_wi=2",
           imageAlt: "outdoor advertising banner modern design",
         },
       ]}
@@ -106,7 +106,7 @@ export default function LandingPage() {
           href: "#realizations",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-vector/gold-foil-business-card-template_23-2148886788.jpg"
+      imageSrc="http://img.b2bpic.net/free-vector/gold-foil-business-card-template_23-2148886788.jpg?_wi=3"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg",
@@ -208,42 +208,42 @@ export default function LandingPage() {
           name: "Banery wielkoformatowe",
           price: "Wycena",
           variant: "Popularne",
-          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg?_wi=2",
         },
         {
           id: "p2",
           name: "Oznakowanie firm",
           price: "Wycena",
           variant: "Premium",
-          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg?_wi=3",
         },
         {
           id: "p3",
           name: "Reklama zewnętrzna",
           price: "Wycena",
           variant: "Standard",
-          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg?_wi=4",
         },
         {
           id: "p4",
           name: "Scenografia",
           price: "Wycena",
           variant: "Indywidualne",
-          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg?_wi=5",
         },
         {
           id: "p5",
           name: "Druk materiałów",
           price: "Wycena",
           variant: "Basic",
-          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg?_wi=6",
         },
         {
           id: "p6",
           name: "Projekty specjalne",
           price: "Wycena",
           variant: "Specjalne",
-          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/billboard-template-urban-environment_23-2148197266.jpg?_wi=7",
         },
       ]}
       title="Co możemy dla Ciebie zrobić"
@@ -262,35 +262,35 @@ export default function LandingPage() {
           name: "Anna Kowalska",
           role: "CEO",
           testimonial: "Fantastyczna robota, pełen profesjonalizm.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg?_wi=2",
         },
         {
           id: "2",
           name: "Marek Nowak",
           role: "Manager",
           testimonial: "Baner olbrzymi, wykonanie perfekcyjne.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg?_wi=3",
         },
         {
           id: "3",
           name: "Piotr Zieliński",
           role: "Właściciel",
           testimonial: "Szybko, sprawnie i na czas.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg?_wi=4",
         },
         {
           id: "4",
           name: "Ewa Wiśniewska",
           role: "Marketing",
           testimonial: "Profesjonalne podejście do każdej sprawy.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg?_wi=5",
         },
         {
           id: "5",
           name: "Janusz Dąbrowski",
           role: "Dyrektor",
           testimonial: "Polecam każdemu w Kwidzynie.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-overjoyed-woman-rejoicing-her-success_74855-3513.jpg?_wi=6",
         },
       ]}
       title="Zaufanie budujemy latami"
@@ -307,7 +307,7 @@ export default function LandingPage() {
       tag="Kontakt"
       title="Masz pomysł na reklamę? Zrealizujmy go razem."
       description="Działamy lokalnie w Kwidzynie i okolicach. Skontaktuj się z nami już dziś."
-      imageSrc="http://img.b2bpic.net/free-vector/gold-foil-business-card-template_23-2148886788.jpg"
+      imageSrc="http://img.b2bpic.net/free-vector/gold-foil-business-card-template_23-2148886788.jpg?_wi=4"
       mediaAnimation="slide-up"
     />
   </div>
